@@ -1,9 +1,12 @@
 {
   "name": "@bustle/ember-mobiledoc-apple-news-renderer",
   "version": "0.1.0",
-  "description": "The default blueprint for ember-cli addons.",
+  "description": "Provides mobiledoc-apple-news-renderer to ember apps",
   "keywords": [
-    "ember-addon"
+    "ember-addon",
+    "mobiledoc",
+    "mobiledoc-kit",
+    "apple-news"
   ],
   "license": "MIT",
   "author": "",
