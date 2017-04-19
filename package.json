@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^5.1.7",
-    "@bustle/mobiledoc-apple-news-renderer": "^0.1.0"
+    "@bustle/mobiledoc-apple-news-renderer": "^0.2.0"
 
   },
   "devDependencies": {
