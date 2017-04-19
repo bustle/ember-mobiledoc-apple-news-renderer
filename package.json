@@ -1,6 +1,6 @@
 {
   "name": "ember-mobiledoc-apple-news-renderer",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
     "ember-addon"
@@ -18,7 +18,9 @@
     "test": "ember try:each"
   },
   "dependencies": {
-    "ember-cli-babel": "^5.1.7"
+    "ember-cli-babel": "^5.1.7",
+    "@bustle/mobiledoc-apple-news-renderer": "^0.1.0"
+
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
