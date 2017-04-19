@@ -1,5 +1,5 @@
 {
-  "name": "ember-mobiledoc-apple-news-renderer",
+  "name": "@bustle/ember-mobiledoc-apple-news-renderer",
   "version": "0.1.0",
   "description": "The default blueprint for ember-cli addons.",
   "keywords": [
