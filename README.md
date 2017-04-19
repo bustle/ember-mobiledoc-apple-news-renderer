@@ -1,5 +1,7 @@
 # ember-mobiledoc-apple-news-renderer
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/bustlelabs/ember-mobiledoc-apple-news-renderer.svg?token=aecf7d452bb07d8b506cefac610e43a96e63d7724c35b17c882e20a799b2fb28)](https://greenkeeper.io/)
+
 This README outlines the details of collaborating on this Ember addon.
 
 ## Installation
