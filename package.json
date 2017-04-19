@@ -1,6 +1,6 @@
 {
   "name": "@bustle/ember-mobiledoc-apple-news-renderer",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Provides mobiledoc-apple-news-renderer to ember apps",
   "keywords": [
     "ember-addon",
