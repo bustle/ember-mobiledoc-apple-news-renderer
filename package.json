@@ -1,6 +1,6 @@
 {
   "name": "@bustle/ember-mobiledoc-apple-news-renderer",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Provides mobiledoc-apple-news-renderer to ember apps",
   "keywords": [
     "ember-addon",
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "ember-cli-babel": "^5.1.7",
-    "@bustle/mobiledoc-apple-news-renderer": "^0.3.0"
+    "@bustle/mobiledoc-apple-news-renderer": "^0.3.2"
 
   },
   "devDependencies": {
